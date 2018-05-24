@@ -24,7 +24,7 @@ conversations/team events.
 
 ## Why do I work here?
 - I believe in the mission
-  - There are business realities related to revenue, etc. but I believe we are actually trying to help people with our product
+  - There are some ways that we generate revenues that are important to the business that I'm not a huge fan of, but I believe we are actually trying to help people with our product
 - I believe in the team
   - We are a group of smart, kind, caring individuals that want to collaborate and achieve success together
 - I believe this is a great place to grow a career
