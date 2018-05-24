@@ -42,8 +42,8 @@ conversations/team events.
   - Candidness is not orthoganal to compassion
   - 3 Metrics: Safety (should be high), Effort (should be low), Benefit (should be high)
 - 1:1s
-  - Currently I have monthly 1:1s with the whole team. That will likely be changing soon, but I still want to find time
-    to check in with the team. If you want to have a 1:1, just hit me up on Slack or send me a calendar invite
+  - Currently I have monthly 1:1s with the whole team. That may change over time, but I still want to find time
+    to regularly check in with the team. If you ever want to have a 1:1, just hit me up on Slack or send me a calendar invite
   - I'd like to avoid discussing status updates and instead focus on feedback for each other and discussion of your career,
     team dynamics, team strategy, and the larger business 
 
