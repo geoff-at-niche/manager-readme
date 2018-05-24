@@ -54,8 +54,7 @@ conversations/team events.
 - We will learn together, laugh together, and take control of our destiny at Niche
 
 ## Work/Life Balance
-Productivity and effectivness are maximized when we are happy and healthy. Work should never be detriment to your life. If you
-need to WFH, or unexpectedly take PTO, just let me know. If you need to step out early, or come in late some morning, just let 
+I believe that productivity and effectivness are maximized when we are happy and healthy. Work should never be detrimental to your life. If you need to WFH, or unexpectedly take PTO, just let me know. If you need to step out early, or come in late some morning, just let 
 me know and plan to balance out the time over the course of the work week. I default to trusting everyone, but that _doesn't_ mean I'm blind. Please don't abuse my trust and the trust of your colleagues.
 
 I expect everyone to use all of their PTO each year, and I have no problem with people using their unpaid days. It's important to take vacations and refresh/revitalize yourself.
@@ -66,7 +65,7 @@ Sometimes I work at nights and on weekends. I don't expect you to. If I ever sen
 If there are performance issues, I or your manager will let you know during a 1:1, well before any performance review 
 has occurred. I've recently found a model for performance assessment and communication that I like:
 - **Green**: there might be things to improve, but even if nothing ever changed, it's still good
-- **Orange**: there are some behavior that, if not addressed in the long term, will not be sustainable. Some change is necessary
+- **Orange**: there is some behavior that, if not addressed in the long term, will not be sustainable. Some change is necessary
 and we will continue to discuss, set goals, and measure improvement on that issue during 1:1s and performance reviews
 - **Red**: there is a significant problem, and we are going to explicitly discuss the issue as well as the timebox for resolution. We will meet weekly to discuss progress on the issue
 
