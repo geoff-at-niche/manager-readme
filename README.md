@@ -63,7 +63,7 @@ Sometimes I work at nights and on weekends. I don't expect you to. If I ever sen
 
 ## Performance
 If there are performance issues, I or your manager will let you know during a 1:1, well before any performance review 
-has occurred. I've recently found a model for performance assessment and communication that I like:
+has occurred. If neither I nor your manager has brought up performance issues with you, you should assume that things are all good. I've recently found a model for performance assessment and communication that I like:
 - **Green**: there might be things to improve, but even if nothing ever changed, it's still good
 - **Orange**: there is some behavior that, if not addressed in the long term, will not be sustainable. Some change is necessary
 and we will continue to discuss, set goals, and measure improvement on that issue during 1:1s and performance reviews
