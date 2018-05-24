@@ -50,7 +50,7 @@ conversations/team events.
 ## My goals for the team
 - We will assume positive intent and have each others' backs
 - We will hold each other accountable and expect excellence in ourselves and each other
-- We will always question our tools/decisions/processes and constantly ask 'why?' 
+- We will always question our decisions/processes/tools and constantly ask 'why?' 
 - We will learn together, laugh together, and take control of our destiny at Niche
 
 ## Work/Life Balance
