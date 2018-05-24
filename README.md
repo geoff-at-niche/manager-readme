@@ -55,7 +55,7 @@ conversations/team events.
 
 ## Work/Life Balance
 I believe that productivity and effectiveness are maximized when we are happy and healthy. Work should never be detrimental to your life. If you need to WFH, or unexpectedly take PTO, just let me know. If you need to step out early, or come in late some morning, just let 
-me know and plan to balance out the time over the course of the work week. I default to trusting everyone, but that _doesn't_ mean I'm blind. Please don't abuse my trust and the trust of your colleagues.
+me know and plan to balance out the time over the course of the work week. I default to trusting everyone, but that _doesn't_ mean I'm blind to reality. Please don't abuse my trust and the trust of your colleagues.
 
 I expect everyone to use all of their PTO each year, and I have no problem with people using their unpaid days. It's important to take vacations and refresh/revitalize yourself.
 
