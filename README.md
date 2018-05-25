@@ -38,7 +38,8 @@ conversations/team events.
   - Meeting space should never limit our communication - I enjoy walking around the block and we can always go grab a coffee
   - My phone number is linked on the [Tech Team Wiki](https://github.com/nicheinc/wiki/wiki/TECH---Home). You can call or text me anytime. Literally.
 - Feedback
-  - It is critical that we be candid with one another. Disagreement is feedback – it refines ideas and builds trust
+  - It is critical that we be candid with one another
+  - Disagreement is feedback – it refines ideas and builds trust
   - Candidness is not orthoganal to compassion
   - 3 Metrics: Safety (should be high), Effort (should be low), Benefit (should be high)
 - 1:1s
