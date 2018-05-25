@@ -6,7 +6,7 @@ conversations/team events.
 
 ## What's my job?
 - Retain and attract high-performing talent by taking care of the team and building the Niche engineering brand
-- Set clear context for business needs, cross-team interactions, and individual growth
+- Set context for business needs, cross-team interactions, and individual growth
   - Goal: I can take a month off and things keep humming
   - Accomplishing that goal means that:
     - We have empowered leaders on the team with at least 1 month of clear context as to what's next
