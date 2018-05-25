@@ -16,7 +16,7 @@ conversations/team events.
 - TL;DR; Ensure the team is successful and happy and accomplishing meaningful work that aligns with the goals of the business
 
 ## What's not my job?
-- My job is **not** to tell you what to do, or how to do it
+- My job is **not** to tell you what to do, nor how to do it
   - Our product development process should inform _what_ to do to accomplish the goals of the business
   - I believe you are all high-performing, high-potential individuals: I assume that you know your job better than me,
     and that you will let me know if you are not set up for success
