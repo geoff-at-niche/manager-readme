@@ -40,7 +40,7 @@ conversations/team events.
 - Feedback
   - It is critical that we be candid with one another
   - Disagreement is feedback – it refines ideas and builds trust
-  - Candidness is not orthoganal to compassion
+  - Candidness is not orthogonal to compassion
   - 3 Metrics: Safety (should be high), Effort (should be low), Benefit (should be high)
 - 1:1s
   - Currently I have monthly 1:1s with the whole team. That may change over time, but I still want to find time
