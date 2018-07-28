@@ -40,7 +40,7 @@ conversations/team events.
 - Feedback
   - It is critical that we be candid with one another
   - Disagreement is feedback – it refines ideas and builds trust
-  - Candidness is not orthogonal to compassion - we will all try to be gentle with our feedback, but never avoid providing it
+  - Candidness is not orthogonal to compassion - we will all try to be gentle with our feedback, but we will never avoid providing it when appropriate
 - 1:1s
   - Currently I have monthly 1:1s with the whole team. That may change over time, but I still want to find time
     to regularly check in with the team. If you ever want to have a 1:1, just hit me up on Slack or send me a calendar invite
